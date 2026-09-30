@@ -11,6 +11,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
+  "repository": "github:churchcommunitybuilder/react-table-hoc-fixed-columns",
   "keywords": [],
   "license": "MIT",
   "files": [
@@ -46,10 +47,6 @@
   },
   "author": "Guillaume Jasmin",
   "homepage": "https://github.com/guillaumejasmin/react-table-hoc-fixed-columns",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:guillaumejasmin/react-table-hoc-fixed-columns.git"
-  },
   "dependencies": {
     "classnames": "^2.2.6",
     "uniqid": "^5.0.3"
